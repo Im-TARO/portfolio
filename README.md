@@ -1,4 +1,4 @@
-<img src="images/ChatGPT Image Aug 21, 2025, 06_15_03 PM.png" width=20%>
+[<img src="images/ChatGPT Image Aug 21, 2025, 06_15_03 PM.png" width=20%>](https://im-taro.github.io/portfolio/)
 
 <div align="center">
 
