@@ -348,8 +348,9 @@
     position: relative; overflow: hidden;
   }
   .project-img-1 { background: linear-gradient(135deg, #90b494, #2f5357); }
-  .project-img-2 { background: linear-gradient(135deg, #90bee5, #dc797c); }  
-  .project-img-3 { background: linear-gradient(135deg, #f6f6fb, #e0e7f8); }
+  .project-img-2 { background: linear-gradient(135deg, #D97757, #F2D49B); }  
+  .project-img-3 { background: linear-gradient(135deg, #f6f6fb, #a2b2d6); }
+  .project-img-4 { background: linear-gradient(135deg, #EAE2B7, #FCBF49); }  
 
   .project-img-placeholder {
     /*width: 80px; height: 80px;*/
